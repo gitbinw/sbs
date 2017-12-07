@@ -1,0 +1,1 @@
+export const API_BASE_URI = 'http://portal.edsring.com.au/app/test/sbs/services';
